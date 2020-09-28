@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Lavar el Auto",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Comprar carne",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Enviar e-mail con presentación",
+        "estado": "Pendiente"
+    }
+]
