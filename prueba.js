@@ -24,3 +24,5 @@ function imprimirTitulos(tareas) {
 }
 
 console.log(imprimirTitulos(listaDeTareas))
+
+console.log ("hola")
